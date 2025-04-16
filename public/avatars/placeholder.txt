@@ -1,0 +1,5 @@
+This directory will contain user avatar images.
+Please add the following images:
+- sarah.jpg
+- mike.jpg
+- emma.jpg 

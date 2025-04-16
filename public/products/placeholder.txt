@@ -1,0 +1,6 @@
+This directory will contain product images.
+Please add the following images:
+- smart-watch.jpg
+- earbuds.jpg
+- fitness-tracker.jpg
+- smart-hub.jpg 

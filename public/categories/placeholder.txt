@@ -1,0 +1,6 @@
+This directory will contain category images.
+Please add the following images:
+- electronics.jpg
+- fashion.jpg
+- home.jpg
+- sports.jpg 

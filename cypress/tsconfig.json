@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es5", "dom"],
+    "types": ["cypress", "node"],
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "baseUrl": ".",
+    "noEmit": true
+  },
+  "include": ["**/*.ts"]
+}
+
+// © ELYES 2024-2025. All rights reserved.
+// Done by ELYES 
